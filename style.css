@@ -16,3 +16,21 @@ header {
     flex-basis: 25%;
 }
 
+.main-rep {
+    background-color: grey;
+    background-size: 50%;
+    text-align: center;
+}
+
+a:hover{
+    color: yellow;
+}
+
+
+
+
+   
+  
+
+
+
